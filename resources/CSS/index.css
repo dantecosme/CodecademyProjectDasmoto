@@ -2,10 +2,65 @@
     font-family: Helvetica, sans-serif, serif;
 }
 
+/* Title Banner */
 header h1 {
     background-image: url(../images/pattern.png);
     color: khaki;
     font-size: 100px;
     text-align: center;
     font-weight: bold;
+}
+
+/* Brushes Section */
+.brushes--title {
+    background-color: mediumspringgreen;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#brushes figcaption {
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+#brushes--price {
+    font-weight: bold;
+    color: blue;
+}
+
+/* Frames Section */
+.frames--title {
+    background-color: lightcoral;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#frames figcaption {
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+#frames--price {
+    font-weight: bold;
+    color: blue;
+}
+
+/* Paint Section */
+.paint--title {
+    background-color: skyblue;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#paint figcaption {
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+#paint--price {
+    font-weight: bold;
+    color: blue;
 }
